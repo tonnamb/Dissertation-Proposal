@@ -1,6 +1,6 @@
 Abstract.tex
 Introduction.tex
-section_Literature_Review__.tex
+Literature Review.tex
 section_Proposal_of_Research_Method__.tex
 section_Preliminary_Results__.tex
 section_Broader_Impacts__.tex
