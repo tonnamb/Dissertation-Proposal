@@ -1,6 +1,6 @@
 Abstract.tex
 Introduction.tex
-subsection_Background_Precursor_seed_growth__.tex
+subsection_Background.tex
 Literature Review.tex
 Proposal of Research Method.tex
 Preliminary Results.tex
