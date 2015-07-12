@@ -7,6 +7,6 @@ section_Proposal_of_Research_Method__.tex
 subsection_Background.tex
 Literature Review.tex
 Preliminary Results.tex
-Timelines__.tex
+section_Timelines__.tex
 Broader Impacts.tex
 Summary of Proposed Research.tex
