@@ -1,7 +1,7 @@
 Abstract.tex
 Introduction.tex
 Specifics.tex
-Literature_review__.tex
+Literature review.tex
 Subsection Significance.tex
 subsection_Background.tex
 Literature Review.tex
