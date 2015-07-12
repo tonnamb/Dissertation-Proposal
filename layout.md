@@ -1,7 +1,7 @@
 Abstract.tex
 Introduction.tex
 Specifics.tex
-Literature Review2.tex
+Literature review.tex
 Mechanistic_studies__.tex
 Proposal_of_Research_Method__.tex
 subsection_Background.tex
