@@ -7,7 +7,7 @@ section_Desired_Outcomes_and_Evaluation__.tex
 Background.tex
 Mechanistic Studies.tex
 figures/free_energy_landscape/free_energy_landscape.png
-Experiments_Cubes_Wires_PVP_facet__.tex
+Mechanistic_studies_review_Experiments_Cubes__.tex
 section_Proposed_Research__.tex
 section_Summary_and_Significance__.tex
 section_Broader_Impacts__.tex
