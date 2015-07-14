@@ -11,4 +11,3 @@ section_Proposal_of_Research_Method__.tex
 subsection_Background.tex
 section_Summary_and_Significance__.tex
 Timelines.tex
-Broader Impacts.tex
