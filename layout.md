@@ -12,4 +12,3 @@ subsection_Background.tex
 Preliminary Results.tex
 Timelines.tex
 Broader Impacts.tex
-Summary of Proposed Research.tex
