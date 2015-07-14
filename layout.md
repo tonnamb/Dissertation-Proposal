@@ -8,7 +8,6 @@ Background.tex
 Mechanistic Studies.tex
 figures/free_energy_landscape/free_energy_landscape.png
 section_Proposed_Research__.tex
-subsection_Background.tex
 section_Summary_and_Significance__.tex
 section_Broader_Impacts__.tex
 Timelines.tex
